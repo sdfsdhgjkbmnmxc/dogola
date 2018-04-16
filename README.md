@@ -1,6 +1,9 @@
 # dogola
 Собака-улыбака AKA Dogola 
 
+* [Оригинальная картинка](https://github.com/sdfsdhgjkbmnmxc/dogola/blob/master/dogola.jpg)
+* [Другие дубли (тут уже не улыбается)](https://github.com/sdfsdhgjkbmnmxc/dogola/tree/master/etc)
+
 ![Собака-улыбака в хорошем разрешении](https://github.com/sdfsdhgjkbmnmxc/dogola/blob/master/dogola.jpg)
 
 Оригинальные фотографии. Не фотошоп.
